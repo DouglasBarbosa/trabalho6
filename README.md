@@ -1,2 +1,1 @@
-# trabalho6
-Trabalho 6s de prog3.
+Trabalho 6 de prog3.
